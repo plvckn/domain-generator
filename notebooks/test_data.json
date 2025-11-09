@@ -1,0 +1,32 @@
+[
+    {
+        "domain_name": "ekomedis.lt",
+        "business_description_en": "Manufacturer and builder of wooden structures — prefabricated log and frame houses, garden cottages, saunas and outdoor wooden products, plus installation and construction services.",
+        "business_description_lt": "Gamina ir stato karkasinius bei rąstinius namus, pirtis, sodo namelius ir pavėsines; teikia statybos, montavimo ir individualių medinių konstrukcijų paslaugas.",
+        "alternate_description_lt": "Karkasinių, skydinių, mūrininių namų statybos valdymas nuo projektavimo iki pilno įrengimo Kaune."
+    },
+    {
+        "domain_name": "manobustas.lt",
+        "business_description_en": "Property management firm specializing in multi‑apartment building administration, maintenance, emergency repairs, cleaning, engineering and energy-efficient renovations, plus a tenant self-service portal for payments, reporting and transparency.",
+        "business_description_lt": "Daugiabučių ir komercinių pastatų administravimas, inžinerinė priežiūra, valymas, renovacija, avarinės paslaugos ir energijos/SMART sprendimai su savitarnos platforma.",
+        "alternate_description_lt": "Kompleksinės daugiabučių namų ir komercinių pastatų priežiūros paslaugos bei patalpų ir teritorijų priežiūra."
+    },
+    {
+        "domain_name": "autoaibe.lt",
+        "business_description_en": "Retail chain and online store selling automotive parts, maintenance products and accessories across Lithuania, supplying spare parts for major car makes with pickup and delivery options.",
+        "business_description_lt": "Mažmeninė ir internetinė automobilių dalių bei aksesuarų parduotuvė Lietuvoje su servisu, plačiu asortimentu ir logistikos tinklu aptarnaujanti tiek vairuotojus, tiek autoservisus.",
+        "alternate_description_lt": "Prekyba automobilių dalimis, akumuliatoriais, alyvom ir tepalais, autochemija, automobilių priežiūros priemonėmis, aksesuarais ir t.t"
+    },
+    {
+        "domain_name": "veloklinika.lt",
+        "business_description_en": "Urban bicycle shop and service in Vilnius offering new bikes, parts, accessories, repairs, storage and rentals; also sells e-bikes, road, gravel, MTB models and cycling apparel.",
+        "business_description_lt": "Miesto dviračių parduotuvė ir servisas: nauji dviračiai, aksesuarai, profesionalus remontas, prekės Orbea, Specialized, Garmin; aptarnavimas ir internetinė parduotuvė.",
+        "alternate_description_lt": "Dviračių parduotuvė ir servisas miesto centre! Orbea, Specialized, Garmin, Oakley, Rapha ir aibė kitų prekinių ženklų ir kokybiškų paslaugų, prekių visiems aktyviai leidžiantiems laisvalaikį ar keliaujantiems dviračiais."
+    },
+    {
+        "domain_name": "fabijoniskiubaseinas.lt",
+        "business_description_en": "Public 25‑meter, 8‑lane community swimming pool and sports centre in Fabijoniškės, Vilnius offering swim lessons, fitness, sauna, rehabilitation, and competitive training.",
+        "business_description_lt": "Viešasis 25 m, 8 takelių plaukimo baseinas Fabijoniškėse: plaukimo treniruotės, kursai, vaikų programos, sauna ir sporto paslaugos bendruomenei.",
+        "alternate_description_lt": "Naujausia ir moderniausia plaukimo sporto bazė Vilniaus mieste, Fabijoniškėse, pastatyta Vilniaus miesto savivaldybės iniciatyva."
+    }
+]
