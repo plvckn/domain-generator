@@ -31,7 +31,7 @@ Use docker compose to launch the application:
 Note: it can take a while for vllm to initialize
 
 ## Next steps / further ideas
-Here are a few ideas to improve in the creation of domain names or help productionalize this service:
+Here are a few ideas to improve on in the creation of domain names or to make this service more practical and production-ready:
 - Connect with domain name lookup to see if generated domain is available
     - if unavailalbe, offer similar alternatives
 - have a vector database with vectors of various business descriptions. When generating a new domain, use this vector database to find similar businesses and their domain names. These domains can be incorporated into a fewshot prompt to serve as examples.
